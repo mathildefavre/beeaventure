@@ -1,0 +1,241 @@
+body{
+background-color: white;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(images/img1.png);
+color: white;
+  }
+
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Sigmar One', cursive;
+  text-align: center;
+  font-size: 14pt;
+}
+
+.abeille{
+  position: absolute;
+  top: 400px;
+  left: 50px;
+}
+
+h2 {
+  color: white;
+  font-family: 'Sigmar One', cursive;
+  text-align: center;
+  font-size: 60pt;
+
+}
+ h4 {
+   color: white;
+   font-family: 'Sigmar One', cursive;
+   text-align: center;
+   font-size: 35pt;
+ }
+
+
+.box1 {
+  width: 90px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+
+.box2 {
+  width: 400px;
+  height: 170px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 200px;
+  left: 450px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: black;
+  font-family: 'Sigmar One', cursive;
+  text-align: center;
+  font-size: 6pt;
+}
+
+
+video{
+width: 50%;
+height: auto;
+position: absolute;
+top: 200px;
+left: 300px;
+}
+
+.box3 {
+  width: 100px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box4 {
+  width: 130px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+.box6 {
+  width: 100px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box7 {
+  width: 130px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box9 {
+  width: 100px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box10 {
+  width: 130px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+.box12 {
+  width: 100px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box13 {
+  width: 130px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box15 {
+  width: 100px;
+  height: 65px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box16 {
+  width: 130px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.box17 {
+  width: 100px;
+  height: 35px;
+  background-color: yellow;
+  border: 5px solid black;
+  position: absolute;
+  top: 550px;
+  left: 1100px;
+  text-align: center;
+  border-radius: 10px;
+
+}
+.box18 {
+  position: absolute;
+  top: 610px;
+  left: 600px;
+  text-align: center;
+}
+
+.box19 {
+  position: absolute;
+  top: 610px;
+  left: 630px;
+  text-align: center;
+}.box20 {
+  position: absolute;
+  top: 610px;
+  left: 660px;
+  text-align: center;
+}
+.box21 {
+  position: absolute;
+  top: 610px;
+  left: 690px;
+  text-align: center;
+}
+.box22 {
+  position: absolute;
+  top: 610px;
+  left: 570px;
+  text-align: center;
+}
